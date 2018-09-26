@@ -7,3 +7,7 @@ for it
 ### Usage
 
 `./numerology.py billgates`
+
+Result
+
+`Pythagorean: 33`
